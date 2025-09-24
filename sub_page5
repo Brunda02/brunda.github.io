@@ -1,0 +1,83 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Wen sub Test Page1!</title>
+  </head>
+  <body>
+    <p>CS AI Agent in CSS
+
+
+
+By Vincent Wong
+
+3 min
+
+102
+
+thumbs up
+red heart
+5
+Goal
+Primary goal
+ To validate and test out the CS AI Agent solutions and components as Customer 0
+
+secondary goal
+ Improvement in Atlassian’s customer service experience and customer response time
+
+ 
+
+Stage 0 
+<<< Currently here
+ 
+What: Test CS AI Agent with existing CSS data 
+
+Why: As we are building the CS AI Agent - this will help us fine tune and benchmark our CS AI Agent’s performance
+
+How: CSM team will be working with CSS Analytics/ AI team to gather record data that already exist. Clean up data and run it through our AI Agent as we build our CS AI Agent 
+
+ 
+
+To proceed: Demonstrate our CS AI Agent is successful at answering XX% of the golden record that the AI agent is expected to answer (eg no actions/ no handoff)
+
+ 
+
+Stage 1
+What: CS AI Agent launched to “Concierge” experience. Direct a % of traffic to surface up the CS AI Agent in the Concierge experience. If CS AI Agent cannot answer, direct customers to SAC contact form. 
+
+Concierge experience today is only available to logged in admins that matched the criteria 
+
+Important For stage 1, we expect to have a number of hard coded elements to existing CSS technology ensure we can get the technology up and running ASAP and start learning. 
+
+ 
+
+Preview unavailable
+ 
+
+Why: 
+
+Rolling out CS AI Agent to live traffic allow us to test out our CS AI Agent properly. And to understand especially the conversational aspect of our AI Agent.
+
+Concierge experience is already a CSS experimental platform. Much lighter weight to put on and direct traffic first which makes it ideal for our early testing
+
+We can also easily control the % of customers and target specific group of customers we showcase
+
+How:
+
+M0: CSS Integration Architecture
+ 
+
+ 
+
+To proceed: Demonstrate our CS AI Agent is successful at containing XX% and resolving XX% of the request via the CS AI Agent
+
+ 
+
+Stage 2 - Hardcoded (Optional Step)
+What: CS AI Agent launched to SAC experience.  Having the CS AI Agent chat pop up show up across SAC (vs just concierge in stage 1). 
+
+ Important We will only go for this option if the incremental from Stage 1 → Stage 2 hardcoded is low (eg 1-2 week dev work). And even if we do this step, we will also transition to Stage 2 CSM product when its ready
+
+
+    </p>
+  </body>
+</html>
