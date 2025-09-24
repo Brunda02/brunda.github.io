@@ -1,0 +1,20 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Wen sub Test Page1!</title>
+  </head>
+  <body>
+    <p>Background
+
+As part of our CS solution, we believe a key part will be offering a CS AI Agent that is able to handle and auto-resolve a large part of customer requests. 
+
+With the rise of LLM, this is gaining more traction and is proving to be very successful in the market. With many CS teams finding success in adopting these CS AI Agent
+
+These CS AI agent today is not only just able to auto-resolve customer request 24/7, but is also able to be access via a number of channels (web chat, social, voice) and is multilingual. As part of the auto-resolve capabilities, they have the ability to answer from knowledge, or take direct actions for the customers automatically.
+
+The CS AI agent market have been spun up, with many independent vendors popping up, sitting on top of key CS ticketing solution (Sierra, Ada, Forethought, Decagon), but we have also seen a rise in traditional CS ticketing solutions extending their offerings (Salesforce Einstein, Intercom Fin), and also a number of them acquiring and consolidating their solutions (Zendesk + Ultimate, Gladly + Thankful)
+
+We believe we have a lot of the technology within Central AI and Rovo that we can leverage to allow us to quickly assemble together a dedicated CS AI Agent. One that is market competitive in the fast moving CS space.
+    </p>
+  </body>
+</html>
