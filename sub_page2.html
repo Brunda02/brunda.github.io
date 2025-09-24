@@ -1,0 +1,162 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Wen sub Test Page1!</title>
+  </head>
+  <body>
+    <p>Deep Dive on Agent Studio
+
+
+
+By Divya Ramesh
+
+4 min
+
+22
+
+Add a reaction
+Topics
+What and Why topics? 
+Topics are collections NOT containers for your configuration. 
+
+The agent can traverse between topics, this is why we use topics rather separate agents for this 
+
+Agent Studio Components
+Global
+
+Description
+
+Persona
+
+ 
+
+Greetings
+
+ 
+
+KB
+
+ 
+
+Global actions 
+
+ 
+
+Channel set up 
+
+ 
+
+Process
+
+ 
+
+Variables
+
+ 
+
+Hand Off Configuration 
+
+ 
+
+Topic Collection
+Attribute
+
+Description
+
+KB - drilldown/conditions
+
+ 
+
+Actions allocated specially to topic
+
+ 
+
+Instructions + specific guidance 
+
+ 
+
+Process scoped to topics 
+
+ 
+
+Use the global variables inside the work  
+
+ 
+
+Process
+What is a process?
+Process tree is a dialogue tree with a flow graph with instructions to the AI to allow the admin more control. Along the flow graph you have the choices to create paths. The process should enable the admin to go deterministic and match legal constraints.
+
+VA and CSM 
+JSM VA
+
+CSM 
+
+VA wrapper is intent (which is one thing) 
+
+We are wrapping in a topic
+
+No actions just yet
+
+Actions will be needed immediately 
+
+More deterministic branching, if this then that 
+
+Conditionals can be based more in GEN AI 
+
+e.g. if confidence level is between 10-20% of certain sentiment 
+
+Lifecycle of an agent
+Build 
+Global: Persona → Greeting → KB → Actions(?) 
+
+→ Configure topics → define web channel 
+
+Test
+Simulation 
+
+run as an admin
+
+Run as a specific user (important when we have customer context) 
+
+Variables that you can set 
+
+Multi turn (can test manually) 
+
+Reasoning logs 
+
+Topic 
+
+KB 
+
+Actions 
+
+Annotate fixes (e.g. this was the wrong topic or yes this did resolve ) 
+
+Save test cases with expected results and run 
+
+Can also run it through the LLM for LLM based accuracy
+
+Recommendations for fixes 
+
+After this can give a score for the test cases on the simulation test case
+
+Publish 
+Enable which topics
+
+Publish 
+
+Monitor 
+Show actual helpseeker question
+
+See reasoning logs
+
+Save test cases - scrub PII? 
+
+Large metrics at the top - ARR
+
+Show history of conversations 
+
+    </p>
+  </body>
+</html>
